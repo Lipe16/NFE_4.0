@@ -13,3 +13,4 @@
 
 * Regime Normal:
 	- Empresas de lucro presumido ou lucro real.  Destacam na nota ICMS próprio, ICMS-ST, IPI, PIS ou COFINS.
+
