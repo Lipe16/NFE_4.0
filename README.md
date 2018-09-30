@@ -8,6 +8,7 @@
 
 ##### Fontes:
 * Fazenda - http://www.nfe.fazenda.gov.br/Portal/listaConteudo.aspx?tipoConteudo=33ol5hhSYZk=
+
 * Treinamento na Academia fiscal -  https://portalrmfactory.com.br/curso/academia-fiscal/
 
 ![NFE](https://image.ibb.co/nM3yEK/nfe.png)
