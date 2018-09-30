@@ -11,4 +11,6 @@
 
 * Treinamento na Academia fiscal -  https://portalrmfactory.com.br/curso/academia-fiscal/
 
+* Blog Fácil 123 - https://asseinfo.com.br/blog/substituicao-tributaria-o-que-eh-e-como-se-calcula/
+
 ![NFE](https://image.ibb.co/nM3yEK/nfe.png)
