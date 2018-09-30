@@ -13,4 +13,5 @@
 
 * Blog Fácil 123 - https://asseinfo.com.br/blog/substituicao-tributaria-o-que-eh-e-como-se-calcula/
 
+* Ricardo Capucio - https://conta.mobi/blog/tabela-cfop-o-que-e-para-que-serve/#Oquee_CFOP
 ![NFE](https://image.ibb.co/nM3yEK/nfe.png)
