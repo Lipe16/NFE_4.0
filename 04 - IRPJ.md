@@ -1,4 +1,4 @@
-# O que é o IRPJ ?
+# O que é o regime de apuração IRPJ ?
 
 IRPJ -  imposto de renda pessoa jurídica.
 
