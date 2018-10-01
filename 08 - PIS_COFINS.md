@@ -16,7 +16,7 @@
 >
 >valor do PIS = 0,65% de 100
 
-### Alíquota específica:
+### Alíquota específica(no CST 03):
 >unidade tributável: vintena
 >
 >valor do PIS em R$ por vintena  = 0,0076
