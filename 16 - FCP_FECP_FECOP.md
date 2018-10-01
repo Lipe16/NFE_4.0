@@ -4,7 +4,7 @@
 * Incide em vendas internas ou qualquer operação  com destaque de ICMS, consumo e ativo, assim como operações interestaduais para consumidor final.
 
 
-##### Tags:
+##### Tags(base, percentual e valor respectivamente em cada caso):
 
 >ICMS próprio: vBCFCP, pFCP, vFCP
 
